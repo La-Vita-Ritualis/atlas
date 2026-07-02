@@ -1,0 +1,3 @@
+# Backlog Editorial
+
+Documento base.

@@ -1,0 +1,3 @@
+# Kintsugi
+
+Página fundadora.

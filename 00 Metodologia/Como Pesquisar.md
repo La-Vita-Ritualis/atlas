@@ -1,0 +1,3 @@
+# Como Pesquisar
+
+Documento base.

@@ -1,2 +1,3 @@
-# atlas
-The official knowledge graph of La Vita Ritualis.
+# La Vita Ritualis
+
+Fonte oficial do Atlas.

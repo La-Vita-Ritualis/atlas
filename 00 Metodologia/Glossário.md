@@ -1,0 +1,3 @@
+# Glossário
+
+Documento base.

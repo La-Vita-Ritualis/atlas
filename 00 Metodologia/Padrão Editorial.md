@@ -1,0 +1,3 @@
+# Padrão Editorial
+
+Documento base.
